@@ -1,4 +1,4 @@
-import './assets/main.css'
+
 import './index.css'
 import 'flowbite';
 import { createApp } from 'vue'
